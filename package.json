@@ -1,0 +1,23 @@
+{
+  "name": "country-list-api",
+  "version": "0.0.1",
+  "description": "This is a simple API that shows a list of countries and can be queried ",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "echo \"Test passed\""
+  },
+  "keywords": [
+    "countries",
+    "country",
+    "list"
+  ],
+  "author": "Adu Williams",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^14.0.27"
+  },
+  "dependencies": {
+    "winston": "^3.3.3"
+  }
+}
