@@ -1,5 +1,5 @@
 {
-  "name": "country-list-api",
+  "name": "ad-country-list-api",
   "version": "0.0.1",
   "description": "This is a simple API that shows a list of countries and can be queried ",
   "main": "src/index.js",
